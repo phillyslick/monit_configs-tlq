@@ -1,6 +1,6 @@
-name              "monit_configs-tlq"
-maintainer        "Ben Dixon"
-maintainer_email  "ben@talkingquickly.co.uk"
+name              "monit_configs-psk"
+maintainer        "Ben Polinsky"
+maintainer_email  "benjamin.polinsky@gmail.com"
 description       "Monit configs for server components"
 version           "0.0.6"
 
